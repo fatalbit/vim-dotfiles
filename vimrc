@@ -7,6 +7,7 @@ set showbreak=..
 set textwidth=80
 
 set nu
+set t_Co=256
 
 filetype plugin indent on
 colorscheme molokai
