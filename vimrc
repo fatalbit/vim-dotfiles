@@ -24,3 +24,5 @@ set showmatch
 set hlsearch
 set incsearch
 set ignorecase
+
+let g:indent_guides_start_level = 2
