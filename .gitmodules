@@ -3,4 +3,4 @@
 	url = https://github.com/vim-airline/vim-airline.git
 [submodule "bundle/vim-sneak"]
 	path = bundle/vim-sneak
-	url = git@github.com:justinmk/vim-sneak.git
+	url = https://github.com/justinmk/vim-sneak.git
